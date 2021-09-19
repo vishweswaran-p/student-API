@@ -1,0 +1,421 @@
+2021-09-18T18:29:47.362Z - info: Database connection has been established successfully.
+2021-09-18T18:29:47.997Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:30:18.612Z - info: Database connection has been established successfully.
+2021-09-18T18:30:19.210Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:30:58.942Z - info: Database connection has been established successfully.
+2021-09-18T18:30:59.554Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:32:16.128Z - info: Database connection has been established successfully.
+2021-09-18T18:32:16.766Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:33:05.606Z - info: Database connection has been established successfully.
+2021-09-18T18:33:06.120Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:33:11.650Z - info: Database connection has been established successfully.
+2021-09-18T18:33:12.282Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:33:32.973Z - info: Database connection has been established successfully.
+2021-09-18T18:33:33.563Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:33:42.385Z - info: Database connection has been established successfully.
+2021-09-18T18:33:42.994Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:34:09.950Z - info: Database connection has been established successfully.
+2021-09-18T18:34:10.532Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:34:33.364Z - info: Database connection has been established successfully.
+2021-09-18T18:34:33.980Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:34:49.656Z - info: Database connection has been established successfully.
+2021-09-18T18:34:50.267Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:34:56.405Z - info: Database connection has been established successfully.
+2021-09-18T18:34:57.019Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:35:36.840Z - info: Database connection has been established successfully.
+2021-09-18T18:35:37.480Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:37:06.603Z - info: Database connection has been established successfully.
+2021-09-18T18:37:07.177Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:37:16.705Z - info: Database connection has been established successfully.
+2021-09-18T18:37:17.326Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:37:47.316Z - info: Database connection has been established successfully.
+2021-09-18T18:37:47.937Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:37:56.254Z - info: Database connection has been established successfully.
+2021-09-18T18:37:56.840Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:39:16.308Z - info: Database connection has been established successfully.
+2021-09-18T18:39:16.909Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:39:24.302Z - info: Database connection has been established successfully.
+2021-09-18T18:39:24.900Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:39:31.493Z - info: Database connection has been established successfully.
+2021-09-18T18:39:32.200Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:40:05.902Z - info: Database connection has been established successfully.
+2021-09-18T18:40:06.501Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:40:30.135Z - info: Database connection has been established successfully.
+2021-09-18T18:40:30.743Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:40:45.511Z - info: Database connection has been established successfully.
+2021-09-18T18:40:46.110Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:40:57.584Z - info: Database connection has been established successfully.
+2021-09-18T18:40:58.189Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:41:09.862Z - info: Database connection has been established successfully.
+2021-09-18T18:41:10.471Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:41:22.151Z - info: Database connection has been established successfully.
+2021-09-18T18:41:22.777Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:41:27.377Z - info: Database connection has been established successfully.
+2021-09-18T18:41:27.985Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:41:58.702Z - info: Database connection has been established successfully.
+2021-09-18T18:41:59.221Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:42:10.274Z - info: Database connection has been established successfully.
+2021-09-18T18:42:10.903Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:42:18.069Z - info: Database connection has been established successfully.
+2021-09-18T18:42:18.675Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:42:45.297Z - info: Database connection has been established successfully.
+2021-09-18T18:42:45.839Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:43:29.303Z - error: uncaughtException: customValidators is not defined date=Sun Sep 19 2021 00:13:29 GMT+0530 (India Standard Time), pid=28343, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/flowchart, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/flowchart/index.js], rss=106426368, heapTotal=62464000, heapUsed=40954048, external=2499983, arrayBuffers=1107178, loadavg=[1.03, 0.84, 0.85], uptime=39811, trace=[column=44, file=/home/vishnu/VScode/task/flowchart/app.js, function=createApp, line=27, method=null, native=false, column=33, file=/home/vishnu/VScode/task/flowchart/bin/www, function=setUpExpress, line=133, method=null, native=false, column=6, file=/home/vishnu/VScode/task/flowchart/bin/www, function=setupServer, line=59, method=null, native=false, column=1, file=/home/vishnu/VScode/task/flowchart/bin/www, function=null, line=187, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=5, file=/home/vishnu/VScode/task/flowchart/node_modules/babel-register/lib/node.js, function=loader, line=144, method=null, native=false, column=7, file=/home/vishnu/VScode/task/flowchart/node_modules/babel-register/lib/node.js, function=Object.require.extensions.<computed> [as .js], line=154, method=js], native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=19, file=internal/modules/cjs/loader.js, function=Module.require, line=903, method=require, native=false], stack=[ReferenceError: customValidators is not defined,     at createApp (/home/vishnu/VScode/task/flowchart/app.js:27:44),     at setUpExpress (/home/vishnu/VScode/task/flowchart/bin/www:133:33),     at setupServer (/home/vishnu/VScode/task/flowchart/bin/www:59:6),     at Object.<anonymous> (/home/vishnu/VScode/task/flowchart/bin/www:187:1),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at loader (/home/vishnu/VScode/task/flowchart/node_modules/babel-register/lib/node.js:144:5),     at Object.require.extensions.<computed> [as .js] (/home/vishnu/VScode/task/flowchart/node_modules/babel-register/lib/node.js:154:7),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Module.require (internal/modules/cjs/loader.js:903:19)]
+2021-09-18T18:43:35.591Z - info: Database connection has been established successfully.
+2021-09-18T18:43:36.205Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:43:41.113Z - info: Database connection has been established successfully.
+2021-09-18T18:43:41.721Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:44:00.885Z - info: Database connection has been established successfully.
+2021-09-18T18:44:01.585Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:44:12.641Z - info: Database connection has been established successfully.
+2021-09-18T18:44:13.162Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:44:17.558Z - info: Database connection has been established successfully.
+2021-09-18T18:44:18.183Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:44:28.526Z - info: Database connection has been established successfully.
+2021-09-18T18:44:29.140Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:45:26.684Z - info: Database connection has been established successfully.
+2021-09-18T18:46:47.652Z - error: uncaughtException: Cannot find module 'moment-timezone'
+Require stack:
+- /home/vishnu/VScode/task/flowchart/services/utility/index.js
+- /home/vishnu/VScode/task/flowchart/routes/student/index.js
+- /home/vishnu/VScode/task/flowchart/handlers/index.js
+- /home/vishnu/VScode/task/flowchart/app.js
+- /home/vishnu/VScode/task/flowchart/bin/www
+- /home/vishnu/VScode/task/flowchart/index.js date=Sun Sep 19 2021 00:16:47 GMT+0530 (India Standard Time), pid=28798, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/flowchart, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/flowchart/index.js], rss=86179840, heapTotal=55685120, heapUsed=27363944, external=2069827, arrayBuffers=715513, loadavg=[2.39, 1.42, 1.06], uptime=40009, trace=[column=15, file=internal/modules/cjs/loader.js, function=Module._resolveFilename, line=831, method=_resolveFilename, native=false, column=27, file=internal/modules/cjs/loader.js, function=Module._load, line=687, method=_load, native=false, column=19, file=internal/modules/cjs/loader.js, function=Module.require, line=903, method=require, native=false, column=18, file=internal/modules/cjs/helpers.js, function=require, line=74, method=null, native=false, column=1, file=/home/vishnu/VScode/task/flowchart/services/utility/index.js, function=null, line=7, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=5, file=/home/vishnu/VScode/task/flowchart/node_modules/babel-register/lib/node.js, function=loader, line=144, method=null, native=false, column=7, file=/home/vishnu/VScode/task/flowchart/node_modules/babel-register/lib/node.js, function=Object.require.extensions.<computed> [as .js], line=154, method=js], native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false], stack=[Error: Cannot find module 'moment-timezone', Require stack:, - /home/vishnu/VScode/task/flowchart/services/utility/index.js, - /home/vishnu/VScode/task/flowchart/routes/student/index.js, - /home/vishnu/VScode/task/flowchart/handlers/index.js, - /home/vishnu/VScode/task/flowchart/app.js, - /home/vishnu/VScode/task/flowchart/bin/www, - /home/vishnu/VScode/task/flowchart/index.js,     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15),     at Function.Module._load (internal/modules/cjs/loader.js:687:27),     at Module.require (internal/modules/cjs/loader.js:903:19),     at require (internal/modules/cjs/helpers.js:74:18),     at Object.<anonymous> (/home/vishnu/VScode/task/flowchart/services/utility/index.js:7:1),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at loader (/home/vishnu/VScode/task/flowchart/node_modules/babel-register/lib/node.js:144:5),     at Object.require.extensions.<computed> [as .js] (/home/vishnu/VScode/task/flowchart/node_modules/babel-register/lib/node.js:154:7),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14)]
+2021-09-18T18:47:16.163Z - info: Database connection has been established successfully.
+2021-09-18T18:47:16.759Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:48:05.304Z - info: Database connection has been established successfully.
+2021-09-18T18:48:05.866Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:51:48.942Z - info: Database connection has been established successfully.
+2021-09-18T18:51:49.562Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:52:01.031Z - info: Database connection has been established successfully.
+2021-09-18T18:52:01.660Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:52:06.971Z - info: Database connection has been established successfully.
+2021-09-18T18:52:07.611Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:52:14.129Z - info: Database connection has been established successfully.
+2021-09-18T18:52:14.758Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:52:30.834Z - info: Database connection has been established successfully.
+2021-09-18T18:52:31.453Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:53:11.193Z - info: Request :  GET /student
+2021-09-18T18:53:22.317Z - info: Request :  GET /student
+2021-09-18T18:53:24.171Z - info: Database connection has been established successfully.
+2021-09-18T18:53:24.709Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:53:25.592Z - info: Request :  GET /student
+2021-09-18T18:53:33.221Z - info: Request :  GET /student
+2021-09-18T18:53:36.158Z - info: Database connection has been established successfully.
+2021-09-18T18:53:38.618Z - info: Request :  GET /student
+2021-09-18T18:53:40.532Z - info: Database connection has been established successfully.
+2021-09-18T18:53:41.183Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:53:49.599Z - info: Request :  GET /student
+2021-09-18T18:53:50.079Z - info: Database connection has been established successfully.
+2021-09-18T18:53:50.695Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:54:14.861Z - info: Database connection has been established successfully.
+2021-09-18T18:54:15.513Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:54:20.995Z - info: Request :  GET /student
+2021-09-18T18:54:21.425Z - info: Database connection has been established successfully.
+2021-09-18T18:54:22.032Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:54:29.473Z - info: Request :  GET /student
+2021-09-18T18:54:58.720Z - info: Database connection has been established successfully.
+2021-09-18T18:54:59.313Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:55:00.737Z - info: Request :  PUT /student
+2021-09-18T18:55:01.920Z - info: Request :  PUT /student
+2021-09-18T18:55:25.525Z - info: Database connection has been established successfully.
+2021-09-18T18:55:25.921Z - info: Request :  PUT /student
+2021-09-18T18:55:26.118Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:55:41.847Z - info: Request :  PUT /student
+2021-09-18T18:55:42.848Z - info: Database connection has been established successfully.
+2021-09-18T18:55:43.462Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:55:58.814Z - info: Database connection has been established successfully.
+2021-09-18T18:55:59.378Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:56:05.701Z - info: Database connection has been established successfully.
+2021-09-18T18:56:06.285Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:56:15.966Z - info: Database connection has been established successfully.
+2021-09-18T18:56:16.631Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:56:24.315Z - info: Database connection has been established successfully.
+2021-09-18T18:56:24.850Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:56:24.988Z - info: Request :  PUT /student
+2021-09-18T18:58:06.517Z - info: Database connection has been established successfully.
+2021-09-18T18:58:07.129Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T18:58:12.419Z - info: Request :  PUT /student
+2021-09-18T18:58:20.093Z - info: Request :  GET /student
+2021-09-18T18:58:47.789Z - info: Database connection has been established successfully.
+2021-09-18T18:58:48.443Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:01:15.156Z - info: Database connection has been established successfully.
+2021-09-18T19:01:15.774Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:01:16.530Z - info: Request :  GET /student
+2021-09-18T19:03:43.138Z - info: Database connection has been established successfully.
+2021-09-18T19:03:43.740Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:04:03.163Z - info: Database connection has been established successfully.
+2021-09-18T19:04:03.711Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:05:14.125Z - info: Request :  GET /student
+2021-09-18T19:05:15.533Z - info: Database connection has been established successfully.
+2021-09-18T19:05:16.107Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:07:15.103Z - info: Database connection has been established successfully.
+2021-09-18T19:07:15.618Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:07:16.631Z - info: Request :  GET /student
+2021-09-18T19:09:31.803Z - info: Request :  GET /student
+2021-09-18T19:09:31.869Z - warn: An error occurred on the server. Cannot read property 'findAll' of undefined
+2021-09-18T19:09:32.163Z - info: Database connection has been established successfully.
+2021-09-18T19:09:32.848Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:10:21.372Z - info: Database connection has been established successfully.
+2021-09-18T19:10:22.088Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:10:53.227Z - info: Database connection has been established successfully.
+2021-09-18T19:10:53.751Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:11:07.708Z - info: Request :  POST /api/v1/upload
+2021-09-18T19:11:13.306Z - info: Request :  POST /upload
+2021-09-18T19:11:13.363Z - warn: Validation Error. File is empty.
+2021-09-18T19:11:31.705Z - info: Request :  POST /upload
+2021-09-18T19:11:45.376Z - info: Request :  GET /student
+2021-09-18T19:11:59.612Z - info: Database connection has been established successfully.
+2021-09-18T19:11:59.915Z - info: Request :  GET /student
+2021-09-18T19:12:00.473Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:12:03.695Z - info: Request :  GET /student
+2021-09-18T19:12:04.414Z - info: Request :  GET /student
+2021-09-18T19:12:47.404Z - info: Database connection has been established successfully.
+2021-09-18T19:12:48.025Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:17:10.478Z - info: Database connection has been established successfully.
+2021-09-18T19:17:11.099Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:17:25.926Z - info: Database connection has been established successfully.
+2021-09-18T19:17:26.579Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:17:32.696Z - info: Database connection has been established successfully.
+2021-09-18T19:17:33.331Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:17:37.474Z - info: Request :  GET /student
+2021-09-18T19:18:17.791Z - info: Request :  GET /student?sortBy=id&sortOrder=DESC
+2021-09-18T19:18:17.796Z - warn: Validation Error. field=sortBy, message=Sort by field is invalid
+2021-09-18T19:19:08.953Z - info: Database connection has been established successfully.
+2021-09-18T19:19:09.568Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:19:12.310Z - info: Request :  GET /student?sortBy=id&sortOrder=DESC
+2021-09-18T19:19:20.785Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC
+2021-09-18T19:19:29.961Z - info: Request :  GET /student?sortBy=name&sortOrder=ASC
+2021-09-18T19:19:37.198Z - info: Request :  GET /student?sortBy=name&sortOrder=DESC
+2021-09-18T19:19:48.197Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC
+2021-09-18T19:21:17.910Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC
+2021-09-18T19:21:17.931Z - warn: An error occurred on the server. Cannot read property 'findAll' of undefined
+2021-09-18T19:21:18.083Z - info: Database connection has been established successfully.
+2021-09-18T19:21:18.610Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:21:36.110Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC
+2021-09-18T19:21:41.487Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC
+2021-09-18T19:21:44.302Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC
+2021-09-18T19:22:53.668Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&condition=Simple
+2021-09-18T19:23:15.258Z - error: uncaughtException: /home/vishnu/VScode/task/flowchart/controller/student/index.js: Unexpected token, expected ) (35:54) date=Sun Sep 19 2021 00:53:15 GMT+0530 (India Standard Time), pid=32581, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/flowchart, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/flowchart/index.js], rss=90742784, heapTotal=56688640, heapUsed=30460896, external=1892871, arrayBuffers=538557, loadavg=[3.34, 2.3, 1.87], uptime=42197, trace=[column=13, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$5.raise, line=4454, method=raise, native=false, column=8, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp.unexpected, line=1761, method=unexpected, native=false, column=33, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp.expect, line=1749, method=expect, native=false, column=8, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseParenExpression, line=3790, method=parseParenExpression, native=false, column=20, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$1.parseIfStatement, line=2058, method=parseIfStatement, native=false, column=19, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$1.parseStatement, line=1846, method=parseStatement, native=false, column=21, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$1.parseBlockBody, line=2268, method=parseBlockBody, native=false, column=8, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$1.parseBlock, line=2247, method=parseBlock, native=false, column=22, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseFunctionBody, line=4235, method=parseFunctionBody, native=false, column=8, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseMethod, line=4180, method=parseMethod, native=false], stack=[SyntaxError: /home/vishnu/VScode/task/flowchart/controller/student/index.js: Unexpected token, expected ) (35:54), [0m [90m 33 | [39m        let deferred [33m=[39m q[33m.[39mdefer()[33m;[39m,  [90m 34 | [39m        let [33mStudent[39m [33m=[39m studentModel[33m.[39mgetSchemaVar()[33m;[39m, [31m[1m>[22m[39m[90m 35 | [39m        [36mif[39m (filterOptions[33m.[39mhasOwnProperty([32m'condition'[39m) {,  [90m    | [39m                                                      [31m[1m^[22m[39m,  [90m 36 | [39m        },  [90m 37 | [39m    ) ,  [90m 38 | [39m        [33mStudent[39m[33m.[39mfindAll({[0m,     at Parser.pp$5.raise (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:4454:13),     at Parser.pp.unexpected (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:1761:8),     at Parser.pp.expect (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:1749:33),     at Parser.pp$3.parseParenExpression (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:3790:8),     at Parser.pp$1.parseIfStatement (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:2058:20),     at Parser.pp$1.parseStatement (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:1846:19),     at Parser.pp$1.parseBlockBody (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:2268:21),     at Parser.pp$1.parseBlock (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:2247:8),     at Parser.pp$3.parseFunctionBody (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:4235:22),     at Parser.pp$3.parseMethod (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:4180:8)]
+2021-09-18T19:23:28.464Z - info: Database connection has been established successfully.
+2021-09-18T19:23:29.067Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:23:41.552Z - info: Database connection has been established successfully.
+2021-09-18T19:23:42.164Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:24:18.966Z - info: Database connection has been established successfully.
+2021-09-18T19:24:19.659Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:24:20.601Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&condition=Simple
+2021-09-18T19:24:48.429Z - info: Database connection has been established successfully.
+2021-09-18T19:24:49.035Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:25:04.871Z - info: Database connection has been established successfully.
+2021-09-18T19:25:05.521Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:25:35.634Z - info: Database connection has been established successfully.
+2021-09-18T19:25:36.239Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:25:58.102Z - info: Database connection has been established successfully.
+2021-09-18T19:25:58.770Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:26:50.895Z - info: Database connection has been established successfully.
+2021-09-18T19:26:51.512Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:26:56.312Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&condition=Simple
+2021-09-18T19:27:25.503Z - info: Database connection has been established successfully.
+2021-09-18T19:27:26.005Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:28:39.359Z - info: Database connection has been established successfully.
+2021-09-18T19:28:39.936Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:29:05.472Z - info: Database connection has been established successfully.
+2021-09-18T19:29:05.997Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:29:13.992Z - info: Database connection has been established successfully.
+2021-09-18T19:29:14.560Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:29:22.548Z - info: Database connection has been established successfully.
+2021-09-18T19:29:23.179Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:29:49.797Z - info: Database connection has been established successfully.
+2021-09-18T19:29:50.399Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:30:13.460Z - info: Database connection has been established successfully.
+2021-09-18T19:30:14.242Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:30:24.701Z - info: Database connection has been established successfully.
+2021-09-18T19:30:25.357Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:31:33.900Z - info: Database connection has been established successfully.
+2021-09-18T19:31:34.457Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:31:40.784Z - info: Database connection has been established successfully.
+2021-09-18T19:31:41.394Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:32:04.387Z - error: uncaughtException: /home/vishnu/VScode/task/flowchart/constant/commonconstant.js: Unexpected token, expected , (17:4) date=Sun Sep 19 2021 01:02:04 GMT+0530 (India Standard Time), pid=1109, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/flowchart, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/flowchart/index.js], rss=84049920, heapTotal=54489088, heapUsed=36089592, external=3300899, arrayBuffers=1946585, loadavg=[1.07, 1.31, 1.57], uptime=42726, trace=[column=13, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$5.raise, line=4454, method=raise, native=false, column=8, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp.unexpected, line=1761, method=unexpected, native=false, column=33, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp.expect, line=1749, method=expect, native=false, column=12, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseObj, line=3978, method=parseObj, native=false, column=19, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseExprAtom, line=3719, method=parseExprAtom, native=false, column=19, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseExprSubscripts, line=3494, method=parseExprSubscripts, native=false, column=19, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseMaybeUnary, line=3474, method=parseMaybeUnary, native=false, column=19, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseExprOps, line=3404, method=parseExprOps, native=false, column=19, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseMaybeConditional, line=3381, method=parseMaybeConditional, native=false, column=19, file=/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js, function=Parser.pp$3.parseMaybeAssign, line=3344, method=parseMaybeAssign, native=false], stack=[SyntaxError: /home/vishnu/VScode/task/flowchart/constant/commonconstant.js: Unexpected token, expected , (17:4), [0m [90m 15 | [39m    [33mSTUDENT_TABLE_NAME[39m[33m:[39m [32m'students'[39m,  [90m 16 | [39m, [31m[1m>[22m[39m[90m 17 | [39m    [33mPASS_MARK[39m[33m:[39m [35m35[39m[33m,[39m,  [90m    | [39m    [31m[1m^[22m[39m,  [90m 18 | [39m}[33m;[39m,  [90m 19 | [39m,  [90m 20 | [39m[36mexport[39m [36mdefault[39m [33mCommonConstant[39m[33m;[39m[0m,     at Parser.pp$5.raise (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:4454:13),     at Parser.pp.unexpected (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:1761:8),     at Parser.pp.expect (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:1749:33),     at Parser.pp$3.parseObj (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:3978:12),     at Parser.pp$3.parseExprAtom (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:3719:19),     at Parser.pp$3.parseExprSubscripts (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:3494:19),     at Parser.pp$3.parseMaybeUnary (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:3474:19),     at Parser.pp$3.parseExprOps (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:3404:19),     at Parser.pp$3.parseMaybeConditional (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:3381:19),     at Parser.pp$3.parseMaybeAssign (/home/vishnu/VScode/task/flowchart/node_modules/babylon/lib/index.js:3344:19)]
+2021-09-18T19:32:10.996Z - info: Database connection has been established successfully.
+2021-09-18T19:32:11.600Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:32:23.395Z - info: Database connection has been established successfully.
+2021-09-18T19:32:24.090Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:32:42.019Z - info: Database connection has been established successfully.
+2021-09-18T19:32:42.632Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:32:57.476Z - info: Database connection has been established successfully.
+2021-09-18T19:32:57.981Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:33:08.349Z - info: Database connection has been established successfully.
+2021-09-18T19:33:08.916Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:33:29.029Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC
+2021-09-18T19:33:53.526Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=passed
+2021-09-18T19:34:03.482Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed
+2021-09-18T19:34:28.711Z - info: Database connection has been established successfully.
+2021-09-18T19:34:29.336Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:35:33.836Z - info: Database connection has been established successfully.
+2021-09-18T19:35:34.463Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:35:39.378Z - info: Database connection has been established successfully.
+2021-09-18T19:35:39.979Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:35:47.859Z - info: Database connection has been established successfully.
+2021-09-18T19:35:48.482Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:36:25.555Z - info: Database connection has been established successfully.
+2021-09-18T19:36:26.157Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:36:45.529Z - info: Database connection has been established successfully.
+2021-09-18T19:36:46.144Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:37:03.705Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed
+2021-09-18T19:37:10.235Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=passed
+2021-09-18T19:37:16.487Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed
+2021-09-18T19:38:26.712Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed&limit=1
+2021-09-18T19:38:33.337Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed&limit=10
+2021-09-18T19:38:39.864Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed&limit=1
+2021-09-18T19:38:45.117Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed&limit=2
+2021-09-18T19:40:19.459Z - info: Database connection has been established successfully.
+2021-09-18T19:40:20.137Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:40:39.389Z - info: Database connection has been established successfully.
+2021-09-18T19:40:40.114Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:41:04.692Z - info: Database connection has been established successfully.
+2021-09-18T19:41:09.032Z - info: Database connection has been established successfully.
+2021-09-18T19:41:09.613Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:41:17.937Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed&limit=2
+2021-09-18T19:41:28.299Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=passed&limit=2
+2021-09-18T19:41:36.784Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=passed&limit=20
+2021-09-18T19:43:12.960Z - info: Database connection has been established successfully.
+2021-09-18T19:43:13.539Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:43:22.406Z - info: Database connection has been established successfully.
+2021-09-18T19:43:22.952Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:47:06.949Z - info: Request :  GET /student/1/result
+2021-09-18T19:47:12.903Z - info: Request :  GET /student/11/result
+2021-09-18T19:47:16.406Z - info: Request :  GET /student/9/result
+2021-09-18T19:47:24.027Z - info: Request :  GET /student/8/result
+2021-09-18T19:47:27.019Z - info: Request :  GET /student/3/result
+2021-09-18T19:48:47.426Z - info: Database connection has been established successfully.
+2021-09-18T19:48:48.039Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:51:25.658Z - info: Database connection has been established successfully.
+2021-09-18T19:51:26.245Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:51:27.907Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=passed&limit=20
+2021-09-18T19:51:39.260Z - info: Request :  GET /student/3/result
+2021-09-18T19:53:05.267Z - info: Database connection has been established successfully.
+2021-09-18T19:53:05.791Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:54:40.091Z - info: Database connection has been established successfully.
+2021-09-18T19:54:40.632Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:56:02.448Z - info: Request :  GET /download/template
+2021-09-18T19:56:17.066Z - info: Database connection has been established successfully.
+2021-09-18T19:56:17.291Z - info: Request :  GET /download/template
+2021-09-18T19:56:17.684Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:56:27.523Z - info: Request :  GET /download/template
+2021-09-18T19:58:30.848Z - info: Request :  GET /download/template
+2021-09-18T19:58:58.556Z - info: Database connection has been established successfully.
+2021-09-18T19:58:59.116Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:59:02.627Z - info: Request :  GET /download/template
+2021-09-18T19:59:16.028Z - error: uncaughtException: Route.get() requires a callback function but got a [object Undefined] date=Sun Sep 19 2021 01:29:16 GMT+0530 (India Standard Time), pid=5442, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/sudent, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/sudent/index.js], rss=111153152, heapTotal=67284992, heapUsed=41273056, external=1889447, arrayBuffers=514974, loadavg=[1.38, 1.84, 1.82], uptime=44358, trace=[column=15, file=/home/vishnu/VScode/task/sudent/node_modules/express/lib/router/route.js, function=Route.<computed> [as get], line=202, method=<computed> [as get], native=false, column=19, file=/home/vishnu/VScode/task/sudent/node_modules/express/lib/router/index.js, function=Function.proto.<computed> [as get], line=510, method=<computed> [as get], native=false, column=8, file=/home/vishnu/VScode/task/sudent/handlers/index.js, function=null, line=18, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=5, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=loader, line=144, method=null, native=false, column=7, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=Object.require.extensions.<computed> [as .js], line=154, method=js], native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=19, file=internal/modules/cjs/loader.js, function=Module.require, line=903, method=require, native=false, column=18, file=internal/modules/cjs/helpers.js, function=require, line=74, method=null, native=false], stack=[Error: Route.get() requires a callback function but got a [object Undefined],     at Route.<computed> [as get] (/home/vishnu/VScode/task/sudent/node_modules/express/lib/router/route.js:202:15),     at Function.proto.<computed> [as get] (/home/vishnu/VScode/task/sudent/node_modules/express/lib/router/index.js:510:19),     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/handlers/index.js:18:8),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at loader (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:144:5),     at Object.require.extensions.<computed> [as .js] (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:154:7),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Module.require (internal/modules/cjs/loader.js:903:19),     at require (internal/modules/cjs/helpers.js:74:18)]
+2021-09-18T19:59:19.272Z - info: Database connection has been established successfully.
+2021-09-18T19:59:19.851Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T19:59:24.706Z - info: Database connection has been established successfully.
+2021-09-18T19:59:25.389Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:00:05.910Z - info: Database connection has been established successfully.
+2021-09-18T20:00:06.561Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:00:21.498Z - info: Database connection has been established successfully.
+2021-09-18T20:00:22.127Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:00:26.822Z - info: Database connection has been established successfully.
+2021-09-18T20:00:27.440Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:00:36.769Z - info: Database connection has been established successfully.
+2021-09-18T20:00:37.376Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:00:50.274Z - info: Database connection has been established successfully.
+2021-09-18T20:00:50.896Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:01:09.965Z - info: Database connection has been established successfully.
+2021-09-18T20:01:10.748Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:01:17.618Z - info: Database connection has been established successfully.
+2021-09-18T20:01:18.142Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:01:31.447Z - info: Database connection has been established successfully.
+2021-09-18T20:01:32.062Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:01:41.786Z - info: Database connection has been established successfully.
+2021-09-18T20:01:42.278Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:01:58.172Z - info: Database connection has been established successfully.
+2021-09-18T20:01:58.881Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:02:04.099Z - info: Database connection has been established successfully.
+2021-09-18T20:02:04.721Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:02:10.862Z - info: Database connection has been established successfully.
+2021-09-18T20:02:11.511Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:02:16.679Z - info: Database connection has been established successfully.
+2021-09-18T20:02:17.319Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:02:22.333Z - info: Database connection has been established successfully.
+2021-09-18T20:02:22.890Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:02:34.123Z - info: Database connection has been established successfully.
+2021-09-18T20:02:34.821Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:03:00.316Z - info: Database connection has been established successfully.
+2021-09-18T20:03:00.933Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:03:45.788Z - info: Database connection has been established successfully.
+2021-09-18T20:03:46.405Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:03:54.940Z - info: Database connection has been established successfully.
+2021-09-18T20:03:55.647Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:04:36.780Z - info: Database connection has been established successfully.
+2021-09-18T20:04:37.413Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:05:49.286Z - info: Request :  GET /api/v1/student/1/result
+2021-09-18T20:05:49.553Z - info: Request :  GET /favicon.ico
+2021-09-18T20:19:27.919Z - info: Database connection has been established successfully.
+2021-09-18T20:19:28.442Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:25:43.790Z - info: Database connection has been established successfully.
+2021-09-18T20:25:44.490Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:27:07.332Z - info: Database connection has been established successfully.
+2021-09-18T20:27:07.948Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:27:23.814Z - info: Database connection has been established successfully.
+2021-09-18T20:27:24.440Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:29:11.906Z - info: Database connection has been established successfully.
+2021-09-18T20:29:12.475Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:35:03.700Z - info: Database connection has been established successfully.
+2021-09-18T20:35:04.322Z - info: studentModel::defineSchema -> SyncDone
+2021-09-18T20:42:00.145Z - info: Database connection has been established successfully.
+2021-09-18T20:42:00.658Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T05:48:41.593Z - info: Database connection has been established successfully.
+2021-09-19T05:48:42.211Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T05:56:10.840Z - info: Database connection has been established successfully.
+2021-09-19T05:56:11.428Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T05:56:12.955Z - error: uncaughtException: (0 , _nyc.describe) is not a function date=Sun Sep 19 2021 11:26:12 GMT+0530 (India Standard Time), pid=7604, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/sudent, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha, --recursive, ./test/controller/studentController.test.js, ./test/router/studentRouter.test.js, --compilers, js:babel-core/register, --timeout, 3000], rss=118960128, heapTotal=75988992, heapUsed=46546416, external=4348054, arrayBuffers=314702, loadavg=[1.3, 1.18, 1.3], uptime=2587, trace=[column=1, file=/home/vishnu/VScode/task/sudent/test/controller/studentController.test.js, function=null, line=26, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=5, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=loader, line=144, method=null, native=false, column=7, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=Object.require.extensions.<computed> [as .js], line=154, method=js], native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=19, file=internal/modules/cjs/loader.js, function=Module.require, line=903, method=require, native=false, column=18, file=internal/modules/cjs/helpers.js, function=require, line=74, method=null, native=false, column=27, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=null, line=250, method=null, native=false, column=null, file=null, function=Array.forEach, line=null, method=forEach, native=false, column=14, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=Mocha.loadFiles, line=247, method=loadFiles, native=false, column=10, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=Mocha.run, line=576, method=run, native=false, column=18, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha, function=null, line=637, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=10, file=internal/modules/cjs/loader.js, function=Module._extensions..js, line=1035, method=.js, native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=12, file=internal/modules/run_main.js, function=Function.executeUserEntryPoint [as runMain], line=60, method=executeUserEntryPoint [as runMain], native=false, column=47, file=internal/main/run_main_module.js, function=null, line=17, method=null, native=false], stack=[TypeError: (0 , _nyc.describe) is not a function,     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/test/controller/studentController.test.js:26:1),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at loader (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:144:5),     at Object.require.extensions.<computed> [as .js] (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:154:7),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Module.require (internal/modules/cjs/loader.js:903:19),     at require (internal/modules/cjs/helpers.js:74:18),     at /home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:250:27,     at Array.forEach (<anonymous>),     at Mocha.loadFiles (/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:247:14),     at Mocha.run (/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:576:10),     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha:637:18),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12),     at internal/main/run_main_module.js:17:47]
+2021-09-19T05:56:16.315Z - info: Database connection has been established successfully.
+2021-09-19T05:56:16.988Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T05:56:51.302Z - error: uncaughtException: (0 , _nyc.describe) is not a function date=Sun Sep 19 2021 11:26:51 GMT+0530 (India Standard Time), pid=7672, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/sudent, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha, --recursive, ./test/controller/studentController.test.js, ./test/router/studentRouter.test.js, --compilers, js:babel-core/register, --timeout, 3000], rss=117964800, heapTotal=75993088, heapUsed=46571400, external=4325896, arrayBuffers=292544, loadavg=[1.36, 1.22, 1.31], uptime=2625, trace=[column=1, file=/home/vishnu/VScode/task/sudent/test/controller/studentController.test.js, function=null, line=26, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=5, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=loader, line=144, method=null, native=false, column=7, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=Object.require.extensions.<computed> [as .js], line=154, method=js], native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=19, file=internal/modules/cjs/loader.js, function=Module.require, line=903, method=require, native=false, column=18, file=internal/modules/cjs/helpers.js, function=require, line=74, method=null, native=false, column=27, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=null, line=250, method=null, native=false, column=null, file=null, function=Array.forEach, line=null, method=forEach, native=false, column=14, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=Mocha.loadFiles, line=247, method=loadFiles, native=false, column=10, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=Mocha.run, line=576, method=run, native=false, column=18, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha, function=null, line=637, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=10, file=internal/modules/cjs/loader.js, function=Module._extensions..js, line=1035, method=.js, native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=12, file=internal/modules/run_main.js, function=Function.executeUserEntryPoint [as runMain], line=60, method=executeUserEntryPoint [as runMain], native=false, column=47, file=internal/main/run_main_module.js, function=null, line=17, method=null, native=false], stack=[TypeError: (0 , _nyc.describe) is not a function,     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/test/controller/studentController.test.js:26:1),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at loader (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:144:5),     at Object.require.extensions.<computed> [as .js] (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:154:7),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Module.require (internal/modules/cjs/loader.js:903:19),     at require (internal/modules/cjs/helpers.js:74:18),     at /home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:250:27,     at Array.forEach (<anonymous>),     at Mocha.loadFiles (/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:247:14),     at Mocha.run (/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:576:10),     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha:637:18),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12),     at internal/main/run_main_module.js:17:47]
+2021-09-19T05:56:54.769Z - info: Database connection has been established successfully.
+2021-09-19T05:56:55.385Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T05:57:20.607Z - error: uncaughtException: (0 , _nyc.describe) is not a function date=Sun Sep 19 2021 11:27:20 GMT+0530 (India Standard Time), pid=7739, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/sudent, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha, --recursive, ./test/controller/studentController.test.js, ./test/router/studentRouter.test.js, --compilers, js:babel-core/register, --timeout, 3000], rss=118321152, heapTotal=75993088, heapUsed=46569944, external=4334356, arrayBuffers=301004, loadavg=[1.14, 1.18, 1.3], uptime=2654, trace=[column=1, file=/home/vishnu/VScode/task/sudent/test/controller/studentController.test.js, function=null, line=26, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=5, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=loader, line=144, method=null, native=false, column=7, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=Object.require.extensions.<computed> [as .js], line=154, method=js], native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=19, file=internal/modules/cjs/loader.js, function=Module.require, line=903, method=require, native=false, column=18, file=internal/modules/cjs/helpers.js, function=require, line=74, method=null, native=false, column=27, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=null, line=250, method=null, native=false, column=null, file=null, function=Array.forEach, line=null, method=forEach, native=false, column=14, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=Mocha.loadFiles, line=247, method=loadFiles, native=false, column=10, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=Mocha.run, line=576, method=run, native=false, column=18, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha, function=null, line=637, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=10, file=internal/modules/cjs/loader.js, function=Module._extensions..js, line=1035, method=.js, native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=12, file=internal/modules/run_main.js, function=Function.executeUserEntryPoint [as runMain], line=60, method=executeUserEntryPoint [as runMain], native=false, column=47, file=internal/main/run_main_module.js, function=null, line=17, method=null, native=false], stack=[TypeError: (0 , _nyc.describe) is not a function,     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/test/controller/studentController.test.js:26:1),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at loader (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:144:5),     at Object.require.extensions.<computed> [as .js] (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:154:7),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Module.require (internal/modules/cjs/loader.js:903:19),     at require (internal/modules/cjs/helpers.js:74:18),     at /home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:250:27,     at Array.forEach (<anonymous>),     at Mocha.loadFiles (/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:247:14),     at Mocha.run (/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:576:10),     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha:637:18),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12),     at internal/main/run_main_module.js:17:47]
+2021-09-19T05:57:23.852Z - info: Database connection has been established successfully.
+2021-09-19T05:57:24.470Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T05:57:42.733Z - error: uncaughtException: (0 , _nyc.describe) is not a function date=Sun Sep 19 2021 11:27:42 GMT+0530 (India Standard Time), pid=7792, uid=1001, gid=1001, cwd=/home/vishnu/VScode/task/sudent, execPath=/usr/local/bin/node, version=v12.19.0, argv=[/usr/local/bin/node, /home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha, --recursive, ./test/controller/studentController.test.js, ./test/router/studentRouter.test.js, --compilers, js:babel-core/register, --timeout, 3000], rss=119508992, heapTotal=76099584, heapUsed=45974608, external=4147588, arrayBuffers=114236, loadavg=[1.18, 1.19, 1.29], uptime=2676, trace=[column=1, file=/home/vishnu/VScode/task/sudent/test/controller/studentController.test.js, function=null, line=26, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=5, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=loader, line=144, method=null, native=false, column=7, file=/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js, function=Object.require.extensions.<computed> [as .js], line=154, method=js], native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=19, file=internal/modules/cjs/loader.js, function=Module.require, line=903, method=require, native=false, column=18, file=internal/modules/cjs/helpers.js, function=require, line=74, method=null, native=false, column=27, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=null, line=250, method=null, native=false, column=null, file=null, function=Array.forEach, line=null, method=forEach, native=false, column=14, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=Mocha.loadFiles, line=247, method=loadFiles, native=false, column=10, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js, function=Mocha.run, line=576, method=run, native=false, column=18, file=/home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha, function=null, line=637, method=null, native=false, column=30, file=internal/modules/cjs/loader.js, function=Module._compile, line=1015, method=_compile, native=false, column=10, file=internal/modules/cjs/loader.js, function=Module._extensions..js, line=1035, method=.js, native=false, column=32, file=internal/modules/cjs/loader.js, function=Module.load, line=879, method=load, native=false, column=14, file=internal/modules/cjs/loader.js, function=Module._load, line=724, method=_load, native=false, column=12, file=internal/modules/run_main.js, function=Function.executeUserEntryPoint [as runMain], line=60, method=executeUserEntryPoint [as runMain], native=false, column=47, file=internal/main/run_main_module.js, function=null, line=17, method=null, native=false], stack=[TypeError: (0 , _nyc.describe) is not a function,     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/test/controller/studentController.test.js:26:1),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at loader (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:144:5),     at Object.require.extensions.<computed> [as .js] (/home/vishnu/VScode/task/sudent/node_modules/babel-register/lib/node.js:154:7),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Module.require (internal/modules/cjs/loader.js:903:19),     at require (internal/modules/cjs/helpers.js:74:18),     at /home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:250:27,     at Array.forEach (<anonymous>),     at Mocha.loadFiles (/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:247:14),     at Mocha.run (/home/vishnu/VScode/task/sudent/node_modules/mocha/lib/mocha.js:576:10),     at Object.<anonymous> (/home/vishnu/VScode/task/sudent/node_modules/mocha/bin/_mocha:637:18),     at Module._compile (internal/modules/cjs/loader.js:1015:30),     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10),     at Module.load (internal/modules/cjs/loader.js:879:32),     at Function.Module._load (internal/modules/cjs/loader.js:724:14),     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12),     at internal/main/run_main_module.js:17:47]
+2021-09-19T05:57:46.175Z - info: Database connection has been established successfully.
+2021-09-19T05:57:46.795Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T05:58:26.125Z - info: Database connection has been established successfully.
+2021-09-19T05:58:26.752Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T05:58:59.803Z - info: Database connection has been established successfully.
+2021-09-19T05:59:00.431Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:03:01.835Z - info: Database connection has been established successfully.
+2021-09-19T06:03:02.454Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:03:28.458Z - info: Database connection has been established successfully.
+2021-09-19T06:03:29.013Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:04:06.949Z - info: Database connection has been established successfully.
+2021-09-19T06:04:07.569Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:08:24.979Z - info: Database connection has been established successfully.
+2021-09-19T06:08:25.588Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:12:18.540Z - info: Database connection has been established successfully.
+2021-09-19T06:12:19.158Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:18:01.796Z - info: Database connection has been established successfully.
+2021-09-19T06:18:02.353Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:21:55.899Z - info: Database connection has been established successfully.
+2021-09-19T06:21:56.514Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:23:35.023Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=passed&limit=20
+2021-09-19T06:23:43.602Z - info: Request :  GET /student/3/result
+2021-09-19T06:23:47.290Z - info: Request :  GET /student/32/result
+2021-09-19T06:23:48.717Z - info: Request :  GET /student/3/result
+2021-09-19T06:24:16.179Z - info: Request :  GET /student/3/result
+2021-09-19T06:24:16.203Z - warn: An error occurred on the server. Cannot read property 'findByPk' of undefined
+2021-09-19T06:24:16.342Z - info: Database connection has been established successfully.
+2021-09-19T06:24:17.117Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:24:24.783Z - info: Request :  GET /student/3/result
+2021-09-19T06:24:26.266Z - info: Request :  GET /student/3/result
+2021-09-19T06:25:36.890Z - info: Database connection has been established successfully.
+2021-09-19T06:25:37.507Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:26:15.497Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:26:20.103Z - info: Request :  GET /student/3/result
+2021-09-19T06:26:54.324Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:27:57.593Z - info: studentModel::defineSchema -> SyncDone
+2021-09-19T06:29:28.543Z - info: Request :  POST /upload
+2021-09-19T06:29:55.406Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=passed&limit=20
+2021-09-19T06:30:06.252Z - info: Request :  GET /student?sortBy=id&sortOrder=ASC&resultStatus=failed&limit=20

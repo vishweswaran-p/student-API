@@ -1,0 +1,22 @@
+{
+    "presets": ["es2015"],
+    "plugins": [
+        ["module-resolver", {
+            "root": ["./"],
+            "alias": {
+                "app":"./app.js",
+                "config": "./config",
+                "handlers": "./handlers",
+                "controller": "./controller",
+                "routes": "./routes",
+                "underscore": "lodash",
+                "validators":"./validators",
+                "model":"./model",
+                "services":"./services",
+                "constant":"./constant",
+                "middleware":"./middleware",
+                "logs":"./logs"
+            }
+        }]
+    ]
+}

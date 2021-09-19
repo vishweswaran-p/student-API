@@ -1,0 +1,167 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ * @main flowchart
+ */
+
+import createApp from 'app';
+import Debug from 'debug'
+import http from 'http';
+import dotenv from 'dotenv';
+import cluster from 'cluster';
+import os from 'os';
+import config from 'config';
+
+const numCores = os.cpus().length;
+
+dotenv.config();
+
+const debug = Debug('server:server');
+let server;
+let workers = [];
+
+/**
+ * Normalize a port into a number, string, or false.
+ */
+
+const normalizePort = (val) => {
+    let port = parseInt(val, 10);
+
+    if (isNaN(port)) {
+        // named pipe
+        return val;
+    }
+
+    if (port >= 0) {
+        // port number
+        return port;
+    }
+
+    return false;
+};
+
+let port = normalizePort(process.env.PORT || config.PORT);
+
+/**
+ * @method setupServer
+ * @description To create and start the http server (Clutser mode may be enabled if passed true)
+ * @param is_cluster_mode
+ */
+const setupServer = (is_cluster_mode) => {
+
+    if(is_cluster_mode && cluster.isMaster) {
+        // If cluster mode is enabled and if it is a master process then call setting up worker process
+        setupWorkerProcesses();
+    } else {
+        // to setup server configurations and share port address for incoming requests
+        setUpExpress();
+    }
+};
+
+/**
+ * @method setupWorkerProcesses
+ * @description To fork the master process into multiple child process
+ */
+const setupWorkerProcesses = () => {
+
+    console.log(`Master cluster ${process.pid} setting up ${numCores} workers`);
+
+    for(let i = 0; i < numCores; i++) {
+        // Creating workers and pushing reference in an array
+        // These references can be used to receive messages from workers
+        workers.push(cluster.fork());
+
+        // To receive messages from worker process
+        workers[i].on('message', (message) => {
+            console.log(`Message from worker ${workers[i].process.pid} is : ${message}`);
+        });
+    }
+
+    cluster.on('online', (worker) => {
+        console.log('Worker ' + worker.process.pid + ' is listening');
+    });
+
+    cluster.on('exit', (worker, code, signal) => {
+        console.log('Worker ' + worker.process.pid + ' died with code: ' + code + ', and signal: ' + signal);
+        console.log('Starting a new worker');
+        workers.push(cluster.fork());
+
+        // To receive messages from worker process
+        workers[workers.length-1].on('message', function(message) {
+            console.log(message);
+        });
+    });
+};
+
+/**
+ * @method setUpExpress
+ * @description To create a http server and setup the express application
+ */
+const setUpExpress = () => {
+
+    /**
+     * Get port from environment and store in Express.
+     */
+    const app = createApp();
+
+    app.set('port', port);
+
+    /**
+     * Create HTTP server.
+     */
+    server = http.createServer(app);
+
+    /**
+     * Listen on provided port, on all network interfaces.
+     */
+    server.listen(port);
+    server.on('error', onError);
+    server.on('listening', onListening);
+};
+
+
+/**
+ * Event listener for HTTP server "error" event.
+ */
+
+const onError = (error) => {
+    if (error.syscall !== 'listen') {
+        throw error;
+    }
+
+    let bind = typeof port === 'string'
+        ? 'Pipe ' + port
+        : 'Port ' + port;
+
+    // handle specific listen errors with friendly messages
+    switch (error.code) {
+        case 'EACCES':
+            console.error(bind + ' requires elevated privileges');
+            process.exit(1);
+            break;
+        case 'EADDRINUSE':
+            console.error(bind + ' is already in use');
+            process.exit(1);
+            break;
+        default:
+            throw error;
+    }
+};
+
+/**
+ * Event listener for HTTP server "listening" event.
+ */
+
+const onListening = () => {
+    let addr = server.address();
+    let bind = typeof addr === 'string'
+        ? 'pipe ' + addr
+        : 'port ' + addr.port;
+    debug('Listening on ' + bind);
+};
+
+//Start setting up the express server
+setupServer(config.enableClusterMode);
+
+
